@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fetawa Admin</string>
+    <string name="date">date</string>
+    <string name="question">question</string>
+    <string name="answer">answer</string>
+    <string-array name="language">
+        <item>amharic</item>
+        <item>english</item>
+        <item>afaan oromo</item>
+        <item>arabic</item>
+        <item>tigrigna</item>
+    </string-array>
+</resources>
