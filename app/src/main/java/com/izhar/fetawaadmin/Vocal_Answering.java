@@ -54,7 +54,7 @@ public class Vocal_Answering extends AppCompatActivity {
                 // Optional
                 //.setSource(AudioSource.MIC)
                 .setChannel(AudioChannel.MONO)
-                .setSampleRate(AudioSampleRate.HZ_16000)
+                .setSampleRate(AudioSampleRate.HZ_8000)
                 .setAutoStart(true)
                 .setKeepDisplayOn(true)
                 // Start recording
